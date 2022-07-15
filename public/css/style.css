@@ -19,7 +19,7 @@ body {
 }
 
 .left {
-    width: 60%;
+    width: 50%;
     max-width: 770px;
     min-width: 300px;
     
@@ -62,7 +62,7 @@ body {
 }
 
 .right {
-    width: 40%;
+    width: 50%;
     height: 100vh;
     background-image: url("../img/hero-desktop.jpg");
     background-size: cover;
